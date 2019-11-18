@@ -1,0 +1,10 @@
+   112	16:17	vi test.c
+   113	16:18	gcc test.c
+   114	16:18	vi test.c
+   115	16:19	gcc test.c
+   116	16:19	vi test.c
+   117	16:19	vi test.c
+   118	16:19	gcc test.c
+   119	16:19	./a.out
+   120	16:19	touch his-test
+   121	16:20	history > his-test
