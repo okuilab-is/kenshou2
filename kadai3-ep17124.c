@@ -14,7 +14,7 @@ int main(void){
          printf("%d ", a[i]);
          i++;
       } else {
-         printf("%d", b[j]);
+         printf("%d ", b[j]);
          j++;
       }
    }
