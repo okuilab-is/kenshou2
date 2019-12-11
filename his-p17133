@@ -1,0 +1,42 @@
+    62	15:22	clear
+    63	15:25	nano kadai3-ep17133.c
+    64	15:28	nano kadai3-ep17133.c
+    65	15:38	cc kadai3-ep17133.c -o kadai1
+    66	15:38	./kadai1
+    67	15:38	nano kadai3-ep17133.c
+    68	15:39	nano kadai3-ep17133.c
+    69	15:40	cc kadai3-ep17133.c -o kadai1
+    70	15:40	./kadai1
+    71	15:41	nano kadai3-ep17133.c
+    72	15:43	cc kadai3-ep17133.c -o kadai1
+    73	15:43	./kadai1
+    74	15:43	nano kadai3-ep17133.c
+    75	15:44	./kadai1
+    76	15:44	nano kadai3-ep17133.c
+    77	15:45	cc kadai3-ep17133.c -o kadai1
+    78	15:45	./kadai1
+    79	15:46	nano kadai3-ep17133.c
+    80	15:46	cc kadai3-ep17133.c -o kadai1
+    81	15:46	./kadai1
+    82	15:46	nano kadai3-ep17133.c
+    83	15:47	cc kadai3-ep17133.c -o kadai1
+    84	15:47	./kadai1
+    85	15:47	nano kadai3-ep17133.c
+    86	15:47	cc kadai3-ep17133.c -o kadai1
+    87	15:47	nano kadai3-ep17133.c
+    88	15:48	./kadai1
+    89	15:48	nano kadai3-ep17133.c
+    90	15:49	cc kadai3-ep17133.c -o kadai1
+    91	15:49	./kadai1
+    92	15:50	./kadai1
+    93	15:50	./kadai1
+    94	15:50	./kadai1
+    95	15:51	nano kadai3-ep17133.c
+    96	15:51	cc kadai3-ep17133.c -o kadai1
+    97	15:51	./kadai1
+    98	15:51	cc kadai3-ep17133.c -o kadai1
+    99	15:51	nano kadai3-ep17133.c
+   100	15:52	cc kadai3-ep17133.c -o kadai1
+   101	15:52	./kadai1
+   102	15:52	cat info
+   103	15:53	history > his-$USER
