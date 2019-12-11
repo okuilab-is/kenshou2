@@ -1,0 +1,41 @@
+    72	15:22	clear
+    73	15:25	vi kadai3-ep17124.c
+    74	15:43	gcc kadai3-ep17124.c
+    75	15:44	vi kadai3-ep17124.c
+    76	15:46	gcc kadai3-ep17124.c
+    77	15:46	a.out
+    78	15:48	gcc kadai3-ep17124.c
+    79	15:48	vi kadai3-ep17124.c
+    80	15:50	gcc kadai3-ep17124.c
+    81	15:50	a.out
+    82	15:51	vi kadai3-ep17124.c
+    83	15:56	gcc kadai3-ep17124.c
+    84	15:56	a.out
+    85	15:57	vi kadai3-ep17124.c
+    86	15:58	gcc kadai3-ep17124.c
+    87	15:58	a.out
+    88	15:58	vi kadai3-ep17124.c
+    89	15:59	gcc kadai3-ep17124.c
+    90	15:59	a.out
+    91	16:00	vi kadai3-ep17124.c
+    92	16:01	gcc kadai3-ep17124.c
+    93	16:01	a.out
+    94	16:02	vi kadai3-ep17124.c
+    95	16:03	gcc kadai3-ep17124.c
+    96	16:03	a.out
+    97	16:04	gcc kadai3-ep17124.c
+    98	16:04	vi kadai3-ep17124.c
+    99	16:09	gcc kadai3-ep17124.c
+   100	16:09	a.out
+   101	16:10	vi kadai3-ep17124.c
+   102	16:11	gcc kadai3-ep17124.c
+   103	16:11	a.out
+   104	16:12	vi kadai3-ep17124.c
+   105	16:12	gcc kadai3-ep17124.c
+   106	16:12	a.out
+   107	16:13	a.out
+   108	16:13	vi kadai3-ep17124.c
+   109	16:14	a.out
+   110	16:14	a.out
+   111	16:15	cat info
+   112	16:16	history > his-$USER
