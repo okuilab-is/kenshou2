@@ -10,7 +10,7 @@ int main(void){
 
    i = 0, j = 0;
    for (int k = 0; k < m + n; k++){
-      if (a[i] < b[j]){
+      if (a[i] < b[j] && i != m || j == n){
          printf("%d ", a[i]);
          i++;
       } else {
