@@ -7,7 +7,7 @@ int main(void){
 	scanf("%d",&n);
 	for(    i=0; i<n; i++) scanf("%d",y);
 	for(    i=0; i<m+n; i++){
-		if(x[xi]<x[xj]){
+		if(x[xi]<x[yi]){
 			printf("%d ",x[xi]);
 			xi++;
 		}else{
