@@ -6,7 +6,8 @@ int main(void){
 	for(i=0; i<m; i++) scanf("%d",x);
 	scanf("%d",&n);
 	for(i=0; i<n; i++) scanf("%d",y);
-	for(i=0; i<m+n; i++){
+	printf("%d",x[0]);
+	/*for(i=0; i<m+n; i++){
 		if(x[xi]<y[yi]){
 			printf("%d ",x[xi]);
 			xi++;
@@ -14,7 +15,7 @@ int main(void){
 			printf("%d ",y[yi]);
 			yi++;
 		}
-	}
+	}*/
 	printf("\n");
 	return 0;
 }
