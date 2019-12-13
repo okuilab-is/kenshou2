@@ -14,6 +14,7 @@ int main(void){
 			printf("%d ",y[yi]);
 			yi++;
 		}
+	}
 	printf("\n");
 	return 0;
 }
