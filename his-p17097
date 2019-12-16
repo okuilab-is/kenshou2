@@ -1,0 +1,68 @@
+    63	15:14	clear
+    64	15:17	vi kadai3-EP17097.c
+    65	15:23	gcc kadai3-EP17097.c
+    66	15:23	vi kadai3-EP17097.c
+    67	15:23	gcc kadai3-EP17097.c
+    68	15:23	vi kadai3-EP17097.c
+    69	15:24	gcc kadai3-EP17097.c
+    70	15:24	vi kadai3-EP17097.c
+    71	15:30	gcc kadai3-EP17097.c
+    72	15:31	vi kadai3-EP17097.c
+    73	15:31	gcc kadai3-EP17097.c
+    74	15:31	a.out
+    75	15:31	vi kadai3-EP17097.c
+    76	15:32	gcc kadai3-EP17097.c
+    77	15:32	a.out
+    78	15:33	vi kadai3-EP17097.c
+    79	15:33	gcc kadai3-EP17097.c
+    80	15:33	a.out
+    81	15:33	vi kadai3-EP17097.c
+    82	15:34	gcc kadai3-EP17097.c
+    83	15:34	a.out
+    84	15:34	vi kadai3-EP17097.c
+    85	15:34	gcc kadai3-EP17097.c
+    86	15:34	a.out
+    87	15:35	vi kadai3-EP17097.c
+    88	15:37	vi kadai3-EP17097.c
+    89	15:38	gcc kadai3-EP17097.c
+    90	15:38	a.out
+    91	15:39	vi kadai3-EP17097.c
+    92	15:41	gcc kadai3-EP17097.c
+    93	15:41	vi kadai3-EP17097.c
+    94	15:44	gcc kadai3-EP17097.c
+    95	15:44	a.out
+    96	15:44	vi kadai3-EP17097.c
+    97	15:45	vi kadai3-EP17097.c
+    98	15:47	gcc kadai3-EP17097.c
+    99	15:47	vi kadai3-EP17097.c
+   100	15:48	gcc kadai3-EP17097.c
+   101	15:48	gcc kadai3-EP17097.c
+   102	15:48	a.out
+   103	15:48	vi kadai3-EP17097.c
+   104	15:50	vi kadai3-EP17097.c
+   105	15:51	gcc kadai3-EP17097.c
+   106	15:51	a.out
+   107	15:52	vi kadai3-EP17097.c
+   108	15:52	gcc kadai3-EP17097.c
+   109	15:52	a.out
+   110	15:52	vi kadai3-EP17097.c
+   111	15:52	gcc kadai3-EP17097.c
+   112	15:52	a.out
+   113	15:53	vi kadai3-EP17097.c
+   114	15:56	gcc kadai3-EP17097.c
+   115	15:56	a.out
+   116	15:56	vi kadai3-EP17097.c
+   117	15:56	a.out
+   118	15:57	vi kadai3-EP17097.c
+   119	15:57	vi kadai3-EP17097.c
+   120	15:57	gcc kadai3-EP17097.c
+   121	15:57	7
+   122	15:57	1 2 3 7 8 10 13
+   123	15:57	5
+   124	15:57	a.out
+   125	15:58	vi kadai3-EP17097.c
+   126	15:58	gcc kadai3-EP17097.c
+   127	15:58	a.out
+   128	15:58	vi kadai3-EP17097.c
+   129	16:00	cat info
+   130	16:00	history > his-$USER
