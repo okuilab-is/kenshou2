@@ -11,10 +11,10 @@ void main(){
   int j=0,k=0;
   for(int i=0; i<m+n; i++){
     if(a[j]<b[k]){
-      printf("%d",a[j]);
+      printf("%d" "",a[j],);
       j++;
     }else{
-      printf("%d",b[k]);
+      printf("%d" "",b[k]);
       k++;
     }
   }
