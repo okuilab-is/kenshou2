@@ -11,7 +11,7 @@ int main(void){
 		scanf("%d",&b[j]);
 	}
 	for(k=0;k<m;k++){
-		for(l=0;l<m;l++){
+		for(l=0;l<n;l++){
 			if(a[k]<b[l]){
 				printf("%d ",a[k]);
 				k++;
