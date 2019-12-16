@@ -10,7 +10,7 @@ int main(void){
 	for(j=0;j<n;j++){
 		scanf("%d",&b[j]);
 	}
-	while((k<m)&&(l<n)){
+	for(h=0;h<(m+n-1);h++){
 		
 			if(a[k]<b[l]){
 				printf("%d ",a[k]);
