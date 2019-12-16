@@ -10,8 +10,8 @@ int main(void){
 	for(j=0;j<n;j++){
 		scanf("%d",&b[j]);
 	}
-	for(k=0;k<m){
-		for(l=0;l<n){
+	while((k<m)&&(l<n)){
+		
 			if(a[k]<b[l]){
 				printf("%d ",a[k]);
 				k++;
@@ -19,7 +19,7 @@ int main(void){
 				printf("%d ",b[l]);
 				l++;
 			}
-		}
+		
 	}
 	printf("\n");
 }
