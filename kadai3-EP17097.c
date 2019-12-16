@@ -13,12 +13,12 @@ int main(void){
 	for(k=0;k<m;k++){
 		for(l=0;l<m;l++){
 			if(a[k]<b[l]){
-				printf("%d",a[k]);
+				printf("%d ",a[k]);
 				k++;
 			}else{
-				printf("%d",b[l]);
+				printf("%d ",b[l]);
 			}
 		}
 	}
-
+	printf("/n");
 }
