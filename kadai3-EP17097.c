@@ -17,6 +17,7 @@ int main(void){
 				k++;
 			}else{
 				printf("%d ",b[l]);
+				l++;
 			}
 		}
 	}
