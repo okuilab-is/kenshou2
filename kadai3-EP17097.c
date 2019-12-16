@@ -14,10 +14,10 @@ int main(void){
 		
 			if(a[k]>b[l]){
 				printf("%d ",a[k]);
-				k++;
+				l++;
 			}else{
 				printf("%d ",b[l]);
-				l++;
+				k++;
 			}
 		
 	}
